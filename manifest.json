@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Friends Sidebar Toggle",
+    "description": "Adds a button that toggles the friend activity sidebar. Display friend activity must be turned on in settings.",
+    "preview": "FriendsSidebarToggle/screenshot.jpg",
+    "main": "FriendsSidebarToggle/FriendsSidebarToggle.js",
+    "readme": "FriendsSidebarToggle/README.md",
+    "authors": [
+        { "name": "NutritiousCookie", "url": "https://github.com/NutritiousCookie" }
+    ]
+  }
+]
