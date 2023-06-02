@@ -1,3 +1,5 @@
+## Deprecated - Redundant with new Spotify update
+
 # Friends Sidebar Toggle
 
 A Spicetify extension that adds a button to toggle the friend activity sidebar. Display friend activity must be turned on in settings.
